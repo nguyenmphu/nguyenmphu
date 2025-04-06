@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+I'm a Software Engineer with 6+ years of experience across various domains, including web development and data engineering.
+- 👯 I’m looking to collaborate on open-source software projects
+- 📫 How to reach me:
+  + Email: nguyenmphu@outlook.com
+  + LinkedIn: https://www.linkedin.com/in/nguyenmphu/
 <!--
 **nguyenmphu/nguyenmphu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
